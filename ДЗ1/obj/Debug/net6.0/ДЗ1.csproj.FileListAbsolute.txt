@@ -1,0 +1,15 @@
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/obj/Debug/net6.0/ДЗ1.csproj.AssemblyReference.cache
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/obj/Debug/net6.0/ДЗ1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/obj/Debug/net6.0/ДЗ1.AssemblyInfoInputs.cache
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/obj/Debug/net6.0/ДЗ1.AssemblyInfo.cs
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/obj/Debug/net6.0/ДЗ1.csproj.CoreCompileInputs.cache
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/bin/Debug/net6.0/ДЗ1
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/bin/Debug/net6.0/ДЗ1.deps.json
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/bin/Debug/net6.0/ДЗ1.runtimeconfig.json
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/bin/Debug/net6.0/ДЗ1.dll
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/bin/Debug/net6.0/ДЗ1.pdb
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/obj/Debug/net6.0/ДЗ1.dll
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/obj/Debug/net6.0/refint/ДЗ1.dll
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/obj/Debug/net6.0/ДЗ1.pdb
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/obj/Debug/net6.0/ДЗ1.genruntimeconfig.cache
+/Users/evgenykuraev/Desktop/ДЗ С#/ДЗ1/obj/Debug/net6.0/ref/ДЗ1.dll
