@@ -1,0 +1,15 @@
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/bin/Debug/net6.0/HW2_2
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/bin/Debug/net6.0/HW2_2.deps.json
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/bin/Debug/net6.0/HW2_2.runtimeconfig.json
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/bin/Debug/net6.0/HW2_2.dll
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/bin/Debug/net6.0/HW2_2.pdb
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/obj/Debug/net6.0/HW2_2.csproj.AssemblyReference.cache
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/obj/Debug/net6.0/HW2_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/obj/Debug/net6.0/HW2_2.AssemblyInfoInputs.cache
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/obj/Debug/net6.0/HW2_2.AssemblyInfo.cs
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/obj/Debug/net6.0/HW2_2.csproj.CoreCompileInputs.cache
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/obj/Debug/net6.0/HW2_2.dll
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/obj/Debug/net6.0/refint/HW2_2.dll
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/obj/Debug/net6.0/HW2_2.pdb
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/obj/Debug/net6.0/HW2_2.genruntimeconfig.cache
+/Users/evgenykuraev/Desktop/GB course/Programming/ДЗ С#/HW2/HW2_2/obj/Debug/net6.0/ref/HW2_2.dll
